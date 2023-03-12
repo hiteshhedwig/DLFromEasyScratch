@@ -4,4 +4,5 @@
 
   - Day1 : Softmax
   - Day2 : LeakyReLU
-  - Day3 : BatchNormalization (TODO)
+  - Day3 : Derivative
+  - Day4 : BatchNormalization (TODO)
